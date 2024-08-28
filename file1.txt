@@ -2,3 +2,4 @@ this is my file
 this is my line2 in file1
 this is my third line in file1
 this is my fourth line in file1
+this is my testing
